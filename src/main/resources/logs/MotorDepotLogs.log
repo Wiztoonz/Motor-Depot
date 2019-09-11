@@ -1,0 +1,106 @@
+2019-07-24 21:53:58 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-24 21:56:54 INFO  LoginValidator:41 - Dispatcher loginned : ID: 13, Name: Баланар, Second name: Владимер, Email bv@gmail.com
+2019-07-24 21:57:22 INFO  CarController:36 - Car added to DB: Car: Жмых Кар Description: Small truck (up to 3.5 tons)
+2019-07-24 21:58:19 INFO  CarUpdateController:33 - Car edited to DB: ID: 4, Car: Хрен
+2019-07-24 21:58:33 INFO  CarDeleteController:29 - Car deleted form DB:  ID: 4, Car: null
+2019-07-24 21:59:38 INFO  FlightController:50 - Flight added:  Flight status: Open, Flight car id: 6, Flight driver: Not assigned
+2019-07-24 22:00:59 INFO  RequestController:40 - Request created:  Flight number: 6, User id: 4
+2019-07-24 22:01:47 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-24 22:02:13 INFO  AssignmentController:37 - Flight assignment: Flight number: 6
+2019-07-24 22:02:43 INFO  FlightEditController:46 - Flight user status edited:  Flight number: 6, Flight status: In progress
+2019-07-24 22:03:21 INFO  FlightEditController:46 - Flight user status edited:  Flight number: 6, Flight status: Is closed
+2019-07-24 22:03:40 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-24 22:04:01 INFO  CarDeleteController:29 - Car deleted form DB:  ID: 6, Car: null
+2019-07-24 22:04:49 INFO  LoginValidator:41 - Dispatcher loginned : ID: 13, Name: Баланар, Second name: Владимер, Email bv@gmail.com
+2019-07-24 22:11:56 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-24 22:17:19 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-24 22:17:22 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-24 22:17:58 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-24 22:22:21 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-24 22:22:24 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-24 22:22:47 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-24 22:23:58 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-24 22:24:02 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-24 22:24:15 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-24 22:24:17 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-24 22:24:45 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-24 22:26:27 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-24 22:26:29 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-24 22:26:48 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 00:06:37 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 00:24:02 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 00:25:17 INFO  LoginValidator:41 - Dispatcher loginned : ID: 13, Name: Баланар, Second name: Владимер, Email bv@gmail.com
+2019-07-25 00:25:51 INFO  CarController:36 - Car added to DB: Car: qwe Description: Truck (from 3.5 tons)
+2019-07-25 00:27:26 INFO  CarController:36 - Car added to DB: Car: sad Description: Passenger car with trailer
+2019-07-25 00:36:45 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 00:38:16 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 00:38:44 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 00:39:22 INFO  LoginValidator:41 - Dispatcher loginned : ID: 2, Name: Баланар, Second name: Владимер, Email bv@gmail.com
+2019-07-25 00:41:29 INFO  CarController:36 - Car added to DB: Car: SCANIA - R410 TL MANUAL RETARDER Description: Грузовой автомобиль (от 3,5 тонн)
+2019-07-25 00:42:47 INFO  LoginValidator:41 - Dispatcher loginned : ID: 2, Name: Баланар, Second name: Владимер, Email bv@gmail.com
+2019-07-25 00:43:03 INFO  FlightController:50 - Flight added:  Flight status: Open, Flight car id: 5, Flight driver: Not assigned
+2019-07-25 00:43:29 INFO  RequestController:40 - Request created:  Flight number: 1, User id: 3
+2019-07-25 00:43:44 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 00:44:10 INFO  FlightController:50 - Flight added:  Flight status: Open, Flight car id: 3, Flight driver: Not assigned
+2019-07-25 00:45:02 INFO  LoginValidator:41 - Dispatcher loginned : ID: 2, Name: Баланар, Second name: Владимер, Email bv@gmail.com
+2019-07-25 00:45:14 INFO  AssignmentController:37 - Flight assignment: Flight number: 1
+2019-07-25 00:45:44 INFO  FlightEditController:46 - Flight user status edited:  Flight number: 1, Flight status: In progress
+2019-07-25 00:47:40 INFO  RequestController:40 - Request created:  Flight number: 1, User id: 4
+2019-07-25 00:47:54 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 00:49:53 INFO  AssignmentController:37 - Flight assignment: Flight number: 2
+2019-07-25 00:50:18 INFO  FlightEditController:46 - Flight user status edited:  Flight number: 2, Flight status: Is closed
+2019-07-25 00:51:21 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 10:37:15 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 10:41:00 INFO  LoginValidator:41 - Dispatcher loginned : ID: 2, Name: Баланар, Second name: Владимер, Email bv@gmail.com
+2019-07-25 10:41:24 INFO  CarController:36 - Car added to DB: Car: Машина Description: Passenger car with trailer
+2019-07-25 10:41:58 INFO  CarUpdateController:33 - Car edited to DB: ID: 1, Car: ййй
+2019-07-25 10:42:50 INFO  CarDeleteController:29 - Car deleted form DB:  ID: 2, Car: null
+2019-07-25 10:43:20 INFO  FlightController:50 - Flight added:  Flight status: Open, Flight car id: 6, Flight driver: Not assigned
+2019-07-25 10:44:44 INFO  RequestController:40 - Request created:  Flight number: 3, User id: 8
+2019-07-25 10:45:12 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 10:45:35 INFO  AssignmentController:37 - Flight assignment: Flight number: 3
+2019-07-25 10:46:18 INFO  FlightEditController:46 - Flight user status edited:  Flight number: 3, Flight status: In progress
+2019-07-25 10:46:37 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 11:31:26 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:31:31 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:32:32 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 11:33:37 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:33:40 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:34:01 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 11:35:54 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:36:02 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:37:19 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 11:38:22 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:38:25 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:38:44 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:38:46 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:39:12 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:39:14 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:39:35 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 11:42:31 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:42:33 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:43:11 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 11:44:12 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:44:14 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:44:46 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 11:46:13 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:46:14 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:46:53 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 11:47:51 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:47:52 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:48:07 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 11:48:23 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:48:48 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:49:07 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 11:50:06 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:50:08 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:50:21 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 11:53:54 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:53:56 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:54:07 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 11:54:54 INFO  MotorDepotListener:21 - MotorDepot stopped.
+2019-07-25 11:54:55 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-07-25 11:55:09 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
+2019-07-25 12:12:04 INFO  FlightController:50 - Flight added:  Flight status: Open, Flight car id: 1, Flight driver: Not assigned
+                                                                      2019-09-04 10:56:37 INFO  MotorDepotListener:15 - MotorDepot started.
+2019-09-04 10:58:53 INFO  LoginValidator:32 - Admin loginned : ID: 1, Name: Oleg, Second name: Rosynskyi, Email olegrosynskyi@gmail.com
